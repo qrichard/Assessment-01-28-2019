@@ -1,0 +1,7 @@
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\Programming Assessment 01-24-2019\Assessment Q 1\Assessment Q 1\Assessment Q 1\bin\Debug\Assessment Q 1.exe.config
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\Programming Assessment 01-24-2019\Assessment Q 1\Assessment Q 1\Assessment Q 1\bin\Debug\Assessment Q 1.exe
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\Programming Assessment 01-24-2019\Assessment Q 1\Assessment Q 1\Assessment Q 1\bin\Debug\Assessment Q 1.pdb
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\Programming Assessment 01-24-2019\Assessment Q 1\Assessment Q 1\Assessment Q 1\obj\Debug\Assessment Q 1.csprojResolveAssemblyReference.cache
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\Programming Assessment 01-24-2019\Assessment Q 1\Assessment Q 1\Assessment Q 1\obj\Debug\Assessment Q 1.csproj.CoreCompileInputs.cache
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\Programming Assessment 01-24-2019\Assessment Q 1\Assessment Q 1\Assessment Q 1\obj\Debug\Assessment Q 1.exe
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\Programming Assessment 01-24-2019\Assessment Q 1\Assessment Q 1\Assessment Q 1\obj\Debug\Assessment Q 1.pdb

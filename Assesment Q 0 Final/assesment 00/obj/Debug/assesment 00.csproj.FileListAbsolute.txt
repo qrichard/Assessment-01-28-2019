@@ -1,0 +1,14 @@
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\assesment 01-25-2019\assesment 00\assesment 00\obj\Debug\assesment 00.csprojResolveAssemblyReference.cache
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\assesment 01-25-2019\assesment 00\assesment 00\obj\Debug\assesment 00.csproj.CoreCompileInputs.cache
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\assesment 01-25-2019\assesment 00\assesment 00\bin\Debug\assesment 00.exe.config
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\assesment 01-25-2019\assesment 00\assesment 00\bin\Debug\assesment 00.exe
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\assesment 01-25-2019\assesment 00\assesment 00\bin\Debug\assesment 00.pdb
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\assesment 01-25-2019\assesment 00\assesment 00\obj\Debug\assesment 00.exe
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\assesment 01-25-2019\assesment 00\assesment 00\obj\Debug\assesment 00.pdb
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\Programming Assessment 01-24-2019\assesment Q 00\assesment 00\bin\Debug\assesment 00.exe.config
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\Programming Assessment 01-24-2019\assesment Q 00\assesment 00\bin\Debug\assesment 00.exe
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\Programming Assessment 01-24-2019\assesment Q 00\assesment 00\bin\Debug\assesment 00.pdb
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\Programming Assessment 01-24-2019\assesment Q 00\assesment 00\obj\Debug\assesment 00.csprojResolveAssemblyReference.cache
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\Programming Assessment 01-24-2019\assesment Q 00\assesment 00\obj\Debug\assesment 00.csproj.CoreCompileInputs.cache
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\Programming Assessment 01-24-2019\assesment Q 00\assesment 00\obj\Debug\assesment 00.exe
+C:\Users\CCA009\Documents\Q Coding Accademy\2019\Programming Assessment 01-24-2019\assesment Q 00\assesment 00\obj\Debug\assesment 00.pdb
